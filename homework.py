@@ -28,7 +28,7 @@ class Training:
     M_IN_KM = 1000
     MIN_IN_HOUR = 60
 
-   def __init__(self,
+    def __init__(self,
                  action: int,
                  duration: float,
                  weight: float,
